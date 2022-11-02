@@ -1,7 +1,7 @@
 {
-    "posts": [
-      {"id": 1,"title": "hello"},
-      {"id": 2,"title2": "hi"},
-      {"id": 3,"title3": "hola"}
+    "SchadeOpnemen": [
+      {"id": 1,"Locatie": "Asterdam","NieuweSchade": "ja", "SoortSchade": "slijtage", "Datum": "2022-07-16", "Acute actie vereist": "ja", "Omschrijving": "lorum"},
+      {"id": 2,"Locatie": "Rotterdam","NieuweSchade": "ja", "SoortSchade": "geweld", "Datum": "2022-08-22", "Acute actie vereist": "ja", "Omschrijving": "lorum"},
+      {"id": 3,"Locatie": "Utrecht","NieuweSchade": "ja", "SoortSchade": "normaal gebruik", "Datum": "2022-09-02", "Acute actie vereist": "nee", "Omschrijving": "lorum"}
     ]
 }

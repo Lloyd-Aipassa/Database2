@@ -3,5 +3,10 @@
       {"id": 1,"Locatie": "Asterdam","NieuweSchade": "ja", "SoortSchade": "slijtage", "Datum": "2022-07-16", "AcuteActieVereist": "ja", "Omschrijving": "lorum"},
       {"id": 2,"Locatie": "Rotterdam","NieuweSchade": "ja", "SoortSchade": "geweld", "Datum": "2022-08-22", "AcuteActieVereist": "ja", "Omschrijving": "lorum"},
       {"id": 3,"Locatie": "Utrecht","NieuweSchade": "ja", "SoortSchade": "normaal gebruik", "Datum": "2022-09-02", "AcuteActieVereist": "nee", "Omschrijving": "lorum"}
+    ],
+    "Achterstallig onderhoud": [
+      {"id": 4,"Locatie": "Den Haag", "SoortOnderhoud": "schilderwerk", "AcuteActieVereist": "ja", "Kostenindicatie": "500-1.500"},
+      {"id": 5,"Locatie": "Lutjebroek","SoortOnderhoud": "houtrot", "AcuteActieVereist": "ja", "Kostenindicatie": "(0-500"},
+      {"id": 6,"Locatie": "Friesland","SoortOnderhoud": "elektra", "AcuteActieVereist": "nee", "Kostenindicatie": "0-500"}
     ]
 }

@@ -8,6 +8,7 @@
     "AchterstalligOnderhoud": [
       {"id": 4,"Locatie": "Den Haag", "SoortOnderhoud": "schilderwerk", "AcuteActieVereist": "ja", "Kostenindicatie": "500-1.500"},
       {"id": 5,"Locatie": "Lutjebroek","SoortOnderhoud": "houtrot", "AcuteActieVereist": "ja", "Kostenindicatie": "(0-500"},
-      {"id": 6,"Locatie": "Friesland","SoortOnderhoud": "elektra", "AcuteActieVereist": "nee", "Kostenindicatie": "0-500"}
+      {"id": 6,"Locatie": "Friesland","SoortOnderhoud": "electra", "AcuteActieVereist": "nee", "Kostenindicatie": "0-500"},
+      {"id": 7,"Locatie": "Groningen","SoortOnderhoud": "houtrot", "AcuteActieVereist": "ja", "Kostenindicatie": "0-500"}
     ]
 }

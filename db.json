@@ -1,14 +1,67 @@
 {
-    "SchadeOpnemen": [
-      {"id": 1,"Locatie": "Asterdam","NieuweSchade": "ja", "SoortSchade": "slijtage", "Datum": "2022-07-16", "AcuteActieVereist": "ja", "Omschrijving": "lorum"},
-      {"id": 2,"Locatie": "Rotterdam","NieuweSchade": "ja", "SoortSchade": "geweld", "Datum": "2022-08-22", "AcuteActieVereist": "ja", "Omschrijving": "lorum"},
-      {"id": 3,"Locatie": "Utrecht","NieuweSchade": "ja", "SoortSchade": "normaal gebruik", "Datum": "2022-09-02", "AcuteActieVereist": "nee", "Omschrijving": "lorum"}
-    ],
-
-    "AchterstalligOnderhoud": [
-      {"id": 4,"Locatie": "Den Haag", "SoortOnderhoud": "schilderwerk", "AcuteActieVereist": "ja", "Kostenindicatie": "500-1.500"},
-      {"id": 5,"Locatie": "Lutjebroek","SoortOnderhoud": "houtrot", "AcuteActieVereist": "ja", "Kostenindicatie": "(0-500"},
-      {"id": 6,"Locatie": "Friesland","SoortOnderhoud": "electra", "AcuteActieVereist": "nee", "Kostenindicatie": "0-500"},
-      {"id": 7,"Locatie": "Groningen","SoortOnderhoud": "houtrot", "AcuteActieVereist": "ja", "Kostenindicatie": "0-500"}
-    ]
+  "SchadeOpnemen": [
+    {
+      "Locatie": "Asterdams",
+      "Datum": "2022-07-21",
+      "NieuweSchade": "Ja",
+      "AcuteActieVereist": "ja",
+      "SoortSchade": "slijtage",
+      "Omschrijving": "Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, now Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, now",
+      "Kostenindicatie": "5000",
+      "id": 1
+    },
+    {
+      "Locatie": "Rotterdam",
+      "Datum": "2022-08-22",
+      "NieuweSchade": "ja",
+      "AcuteActieVereist": "ja",
+      "SoortSchade": "geweld",
+      "Omschrijving": "lorum ipsum d",
+      "id": 2
+    },
+    {
+      "Locatie": "Utrecht",
+      "Datum": "2022-09-02",
+      "NieuweSchade": "ja",
+      "AcuteActieVereist": "nee",
+      "SoortSchade": "normaal gebruik",
+      "Omschrijving": "lorum ipsum",
+      "id": 3
+    },
+    {
+      "Locatie": "Den Haag",
+      "Datum": "2022-11-23",
+      "NieuweSchade": "Ja",
+      "AcuteActieVereist": "ja",
+      "Kostenindicatie": "5000",
+      "id": 4
+    },
+    {
+      "Locatie": "Brooklyn",
+      "Datum": "2022-11-18",
+      "NieuweSchade": "Ja",
+      "AcuteActieVereist": "Ja",
+      "SoortSchade": "geweld",
+      "Omschrijving": "Bla bla bla",
+      "Kostenindicatie": "6000",
+      "id": 5
+    }
+  ],
+  "toDo": [
+    {
+      "id": 1,
+      "Locatie": "Lutjebroek",
+      "Datum": "2022-11-18"
+    },
+    {
+      "id": 2,
+      "Locatie": "Friesland",
+      "Datum": "2022-12-08"
+    },
+    {
+      "id": 3,
+      "Locatie": "Groningen",
+      "Datum": "2022-12-28"
+    }
+  ]
 }
